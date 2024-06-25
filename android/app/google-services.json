@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633814047663",
+    "project_id": "breastadvocate-c3436",
+    "storage_bucket": "breastadvocate-c3436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633814047663:android:3aa1326daa429f99e3ad5a",
+        "android_client_info": {
+          "package_name": "com.example.pink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiO2RngLvzcfBX-bPX_sqG6fvT_1KnfF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
